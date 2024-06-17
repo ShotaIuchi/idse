@@ -1,2 +1,2 @@
-pip3 install -e .
-pip3 install -e ./plugins/idse_googletrans/
+pip install -e .
+pip install -e ./plugins/idse_googletrans/

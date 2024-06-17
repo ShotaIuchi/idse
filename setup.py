@@ -5,8 +5,7 @@ setup(
     version='0.1.0',
     packages=find_packages(),
     install_requires=[
-        'pexpect==4.9.0',
-        'googletrans==4.0.0-rc1',
+        'urwid==2.6.13',
     ],
     entry_points={
         'console_scripts': [
